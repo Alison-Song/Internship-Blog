@@ -47,6 +47,8 @@ After you choose your theme, download it from Github and add it to your site's `
 
     You can also do it manually.  
     Then, 
+    
+    **push and pull test**
 
 ## VScode  
 
